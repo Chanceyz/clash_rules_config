@@ -1,0 +1,2041 @@
+proxies:
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_b2d1f
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.211
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_85b9d
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.119
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_bf7c2
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.24
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_54e97
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.110
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_5adb1
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.251
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_75967
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.172
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_67fc6
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.196
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_5d9f6
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.35
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_30439
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.104
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_9fb83
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.210
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_e78cf
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.55
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_a30df
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.87
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_077cc
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.196
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_919cb
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.200
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_43341
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.204
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_c90e9
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.12
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_4f5f0
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.172
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_49e82
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.126
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_a2d4e
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.128
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_688c2
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.218
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_1c51d
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.217
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d2135
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.152
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_234f0
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.222
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_5a24d
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.179
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_c7238
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.49
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_3d3e0
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.184
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_ac823
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.80
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_46089
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.81
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_aa9bb
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.179
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_bb93b
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.56
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_676c6
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.251
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_15ee3
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.49
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_0cd4f
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.151
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_6298a
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.151
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_454b4
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.54
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_c4b96
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.129
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_54494
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.67
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_bb3cf
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.8
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_1a80f
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.44
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_b7252
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.110
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_eaf76
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.81
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_54cf7
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.54
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_334ba
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.248
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_429e3
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.245
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_e8c79
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.173
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d4091
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.117
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_214bf
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.8
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_1c312
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.197
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_fd51b
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.111
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_66815
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.161
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_6e3a8
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.220
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d0211
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.164
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_a3b7b
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.205
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_db797
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.24
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_26dee
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.137
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_e16b8
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.87
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_ca55c
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.117
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_63dc2
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.175
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_b129b
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.197
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_cd2fa
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.222
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_1ae51
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.67
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d580f
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.159
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_06f93
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.12
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_77e53
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.61
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_a87bf
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.126
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_a60af
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.218
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_594c3
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.55
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_c95bc
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.111
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_f1bd9
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.205
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_636c1
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.175
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_cedcc
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.210
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d5211
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.173
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_8ced0
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.129
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_72e70
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.54
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_0b310
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.204
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_5ba12
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.203
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_15396
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.220
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_3a15d
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.128
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_33375
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.119
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_81f1f
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.240
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_5581c
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.115
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_306c8
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.248
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_739f2
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.248
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_95fc6
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.56
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_1c0d6
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.159
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_f0f26
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.80
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_1e65a
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.240
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_55802
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.149
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_5ebe7
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.217
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_194d0
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.238
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_22a90
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.203
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_7f5f6
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.83
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_642eb
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.184
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d4b5a
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.55
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_a1372
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.211
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_a5cf2
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.115
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d96ff
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.137
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_b62b5
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.200
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_f6936
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.42
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_62625
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.238
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_320b4
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.99.149
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_eba2f
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.42
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_e962b
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.54
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_1141d
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.55
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_f995e
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.61
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_73f29
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.200
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_9cfc5
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.192
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_87961
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.203
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_c0ced
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.200
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_9170c
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.245
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_d4bee
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.248
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_ffefc
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.161
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_7058c
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.35
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_ff809
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.152
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_43eea
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.97.83
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_501d0
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.195.104
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_ecafb
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.96.164
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_f289d
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 162.159.192.44
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_63652
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8319
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.192
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
+- dns:
+  - 1.1.1.1
+  - 1.0.0.1
+  - 2606:4700:4700::1111
+  - 2606:4700:4700::1001
+  mtu: 1280
+  name: Node_36e82
+  peers:
+  - allowed-ips:
+    - 0.0.0.0/0
+    ip: 172.16.0.2/32, 2606:4700:110:8fb8:cfc3:71c3:899a:c294/128
+    port: 8886
+    public-key: bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+    server: 188.114.98.203
+  private-key: UFEF6Tlwz48KeVuJgDoaVeo6bkcv9vntfKLEoC1eE3Y=
+  type: wireguard
+  udp: true
